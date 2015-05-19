@@ -11,4 +11,23 @@ this will become a sub heading
 - this will be a list item
 - this will be a list item
 
-	add a indent and this will end up as code
+http://gassepouille.com
+
+~~Mistaken text.~~
+
+
+...
+
+This is code
+
+function MyClass(){
+	console.log("Who care a lot?")
+}
+
+....
+
+
+First Header | Second Header
+-------------|--------------
+Content cell | Content cell
+Content cell | Content cell
