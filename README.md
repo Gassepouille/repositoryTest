@@ -26,6 +26,19 @@ function MyClass(){
 
 ```
 
+```javascript
+//This is supposed to be javascript
+
+function test(){
+	for(var i=0;i<10;i++){
+		console.log("counter = "+i);
+	}
+}
+
+```
+
+
+
 
 First Header | Second Header
 -------------|--------------
