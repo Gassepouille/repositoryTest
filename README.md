@@ -1,4 +1,4 @@
-this will become a heading
+this will become a heading of the new Branch
 ==================
 
 this will become a sub heading
