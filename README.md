@@ -16,7 +16,7 @@ http://gassepouille.com
 ~~Mistaken text.~~
 
 
-...
+```
 
 This is code
 
@@ -24,7 +24,7 @@ function MyClass(){
 	console.log("Who care a lot?")
 }
 
-....
+```
 
 
 First Header | Second Header
